@@ -1,0 +1,50 @@
+
+
+body{
+  background-color: #4da6ff;
+}
+#git{
+  font-size: 320%;
+}
+h1{
+  font-family: "Verdana";
+  font-size: 300%;
+  color: #005099;
+}
+#propic{
+  width: 300px;
+  height: 300px;
+  border-color: #4da6ff;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 150px;
+}
+.left{
+  height: auto;
+  width: 29%;
+  left:1%;
+  top:50px;
+  bottom: 50px;
+  border-radius: 10px;
+  position: fixed;
+  background-color: #fff;
+}
+.right{
+  overflow-y: scroll;
+  position: fixed;
+  height: 100%;
+  width: 68%;
+  top: 0;
+  right: 0;
+  background-color: #4da6ff;
+}
+.right .inner{
+  width: 97%;
+  margin-top: 50px;
+  height: 1000px;
+  right: 1%;
+  left: 1%;
+  margin-bottom: 50px;
+  border-radius: 10px;
+  background-color: #fff;
+}
