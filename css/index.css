@@ -4,7 +4,7 @@ body{
   background-color: #4da6ff;
 }
 #git{
-  font-size: 320%;
+  font-size: 200%;
 }
 h1{
   font-family: "Verdana";
@@ -22,7 +22,7 @@ h1{
 .left{
   height: auto;
   width: 29%;
-  left:1%;
+  left:1.5%;
   top:50px;
   bottom: 50px;
   border-radius: 10px;
