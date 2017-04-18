@@ -6,6 +6,13 @@ body{
 #git{
   font-size: 200%;
 }
+a{
+  color: #3399ff;
+  text-decoration:none;
+}
+a:hover{
+  color: #004dbb;
+}
 h1{
   font-family: "Verdana";
   font-size: 300%;
