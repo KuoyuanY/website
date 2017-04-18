@@ -3,7 +3,7 @@
 body{
   background-color: #4da6ff;
 }
-#git{
+#icon{
   font-size: 200%;
 }
 a{
@@ -11,7 +11,7 @@ a{
   text-decoration:none;
 }
 a:hover{
-  color: #004dbb;
+  color: #005099;
 }
 h1{
   font-family: "Verdana";
