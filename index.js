@@ -18,10 +18,10 @@ var b = 0
 $("#propic").click(function(event){
   if(b>=9){
     document.getElementById("propic").src="easter.png"
-    var c = document.getElementById("propic");
-    var ctx = c.getContext("2d");
-    ctx.rotate(90*Math.PI/180);
-    ctx.fillRect(50,20,100,50);
+    var c = document.getElementById("propic")
+    var ctx = c.getContext("2d")
+    ctx.rotate(90*Math.PI/180)
+    ctx.fillRect(50,20,100,50)
   }else{
     b++
     console.log(b)

@@ -20,12 +20,12 @@ h1{
   color: #005099;
 }
 #propic{
-  width: 300px;
-  height: 300px;
+  width: 290px;
+  height: 290px;
   border-color: #4da6ff;
   border-width: 5px;
   border-style: solid;
-  border-radius: 150px;
+  border-radius: 500px;
 }
 .left{
   height: auto;
