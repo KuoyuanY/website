@@ -19,9 +19,15 @@ h1{
   font-size: 280%;
   color: #005099;
 }
+h2{
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family: "Verdana";
+  color: #005099;
+}
 #propic{
-  width: 290px;
-  height: 290px;
+  width: 300px;
+  height: 300px;
   border-color: #4da6ff;
   border-width: 5px;
   border-style: solid;
@@ -49,7 +55,7 @@ h1{
 .right .inner{
   width: 97%;
   margin-top: 50px;
-  height: 1000px;
+  height: 100%;
   right: 1%;
   left: 1%;
   margin-bottom: 50px;
